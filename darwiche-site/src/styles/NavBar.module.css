@@ -1,0 +1,30 @@
+.NavBar {
+    color: antiquewhite;
+    font-size: 1.2rem;
+}
+
+.Spotify {
+    color: green;
+}
+
+.Apple {
+    color: grey;
+}
+
+.Youtube {
+    color: red;
+}
+
+.Instagram {
+    color: purple;
+}
+
+.Facebook {
+    color: blue;
+}
+
+@media screen and (min-width: 768px) {
+    .NavBar {
+        font-size: 2rem;
+    }
+}

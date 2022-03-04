@@ -1,0 +1,25 @@
+.App {
+  overflow: hidden;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background: url(assets/1674725_widescreen_1920x1080.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Main {
+  height: 100vh;
+  font-size: calc(10px + .6vmin);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: transparent;
+  z-index: 1000;
+}
