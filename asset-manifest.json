@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/darwiche-band/static/css/main.9f9e3242.css",
-    "main.js": "/darwiche-band/static/js/main.33b6f0de.js",
+    "main.js": "/darwiche-band/static/js/main.23f5a9e2.js",
     "static/js/787.ab51ded2.chunk.js": "/darwiche-band/static/js/787.ab51ded2.chunk.js",
     "static/media/logo_main_transparent.png": "/darwiche-band/static/media/logo_main_transparent.c9f03863c57ec84abc40.png",
     "static/media/1674725_widescreen_1920x1080.jpg": "/darwiche-band/static/media/1674725_widescreen_1920x1080.c40e65642c54c8a83efb.jpg",
     "static/media/darwiche_name_transparent.png": "/darwiche-band/static/media/darwiche_name_transparent.097e26a678a8d6497544.png",
     "index.html": "/darwiche-band/index.html",
     "main.9f9e3242.css.map": "/darwiche-band/static/css/main.9f9e3242.css.map",
-    "main.33b6f0de.js.map": "/darwiche-band/static/js/main.33b6f0de.js.map",
+    "main.23f5a9e2.js.map": "/darwiche-band/static/js/main.23f5a9e2.js.map",
     "787.ab51ded2.chunk.js.map": "/darwiche-band/static/js/787.ab51ded2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f9e3242.css",
-    "static/js/main.33b6f0de.js"
+    "static/js/main.23f5a9e2.js"
   ]
 }
