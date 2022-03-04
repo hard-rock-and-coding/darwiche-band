@@ -23,8 +23,24 @@
     color: blue;
 }
 
+.LinkText {
+    font-size: .8rem;
+}
+
+@media screen and (min-width: 410px) {
+    .NavBar {
+        font-size: 1.4rem;
+    }
+    .LinkText {
+        font-size: 1rem;
+    }
+}
+
 @media screen and (min-width: 768px) {
     .NavBar {
         font-size: 2rem;
+    }
+    .LinkText {
+        font-size: 1.2rem;
     }
 }

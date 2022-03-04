@@ -8,7 +8,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: hsl(0, 0%, 0%, 0.45);
+    background-color: hsla(0, 0, 0, 0.2);
     font-family: 'Special Elite', cursive;
 }
 
@@ -25,10 +25,34 @@
     top: 0;
     width: 100%;
     height: 100%;
-    opacity: 0.62;
+    opacity: 0.92;
     z-index: -1;
 }
 
+.BandLogo::after {
+    background: url(../assets/follow_the_herd_backdrop.png) no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: 160%;
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.35;
+    z-index: -1;
+
+}
+
 .MainHeading {
-    font-size: 3rem;
+    font-size: 1.8rem;
+}
+
+@media screen and (min-width: 768px) {
+    .MainHeading {
+        font-size: 3.6rem;
+    }
 }

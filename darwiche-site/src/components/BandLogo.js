@@ -7,7 +7,7 @@ const BandLogo = () => {
     <div className={styles.BandLogo}>
       <div>
       <h1 className={styles.MainHeading}>FOLLOW THE HERD</h1>
-      <p>Music Video Out now</p>
+      <p>Music Video Out Now</p>
       </div>
       <NavBar />
     </div>
