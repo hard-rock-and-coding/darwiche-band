@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/darwiche-band/static/css/main.3cad52a5.css",
-    "main.js": "/darwiche-band/static/js/main.b335d19b.js",
-    "static/js/787.ab51ded2.chunk.js": "/darwiche-band/static/js/787.ab51ded2.chunk.js",
-    "static/media/logo_main_transparent.png": "/darwiche-band/static/media/logo_main_transparent.c9f03863c57ec84abc40.png",
-    "static/media/1674725_widescreen_1920x1080.jpg": "/darwiche-band/static/media/1674725_widescreen_1920x1080.c40e65642c54c8a83efb.jpg",
-    "static/media/darwiche_name_transparent.png": "/darwiche-band/static/media/darwiche_name_transparent.097e26a678a8d6497544.png",
-    "static/media/follow_the_herd_backdrop.png": "/darwiche-band/static/media/follow_the_herd_backdrop.89458f2662e268c3eef4.png",
-    "index.html": "/darwiche-band/index.html",
-    "main.3cad52a5.css.map": "/darwiche-band/static/css/main.3cad52a5.css.map",
-    "main.b335d19b.js.map": "/darwiche-band/static/js/main.b335d19b.js.map",
-    "787.ab51ded2.chunk.js.map": "/darwiche-band/static/js/787.ab51ded2.chunk.js.map"
+    "main.css": "/static/css/main.55d2ef33.css",
+    "main.js": "/static/js/main.e6f97d8a.js",
+    "static/js/787.ab51ded2.chunk.js": "/static/js/787.ab51ded2.chunk.js",
+    "static/media/logo_main_transparent.png": "/static/media/logo_main_transparent.c9f03863c57ec84abc40.png",
+    "static/media/1674725_widescreen_1920x1080.jpg": "/static/media/1674725_widescreen_1920x1080.c40e65642c54c8a83efb.jpg",
+    "static/media/darwiche_name_transparent.png": "/static/media/darwiche_name_transparent.097e26a678a8d6497544.png",
+    "static/media/follow_the_herd_backdrop.png": "/static/media/follow_the_herd_backdrop.89458f2662e268c3eef4.png",
+    "index.html": "/index.html",
+    "main.55d2ef33.css.map": "/static/css/main.55d2ef33.css.map",
+    "main.e6f97d8a.js.map": "/static/js/main.e6f97d8a.js.map",
+    "787.ab51ded2.chunk.js.map": "/static/js/787.ab51ded2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cad52a5.css",
-    "static/js/main.b335d19b.js"
+    "static/css/main.55d2ef33.css",
+    "static/js/main.e6f97d8a.js"
   ]
 }
