@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.54bb7a89.css",
-    "main.js": "/static/js/main.e6f97d8a.js",
+    "main.css": "/static/css/main.24f4df38.css",
+    "main.js": "/static/js/main.fb76c4ef.js",
     "static/js/787.ab51ded2.chunk.js": "/static/js/787.ab51ded2.chunk.js",
-    "static/media/logo_main_transparent.png": "/static/media/logo_main_transparent.c9f03863c57ec84abc40.png",
-    "static/media/1674725_widescreen_1920x1080.jpg": "/static/media/1674725_widescreen_1920x1080.c40e65642c54c8a83efb.jpg",
-    "static/media/darwiche_name_transparent.png": "/static/media/darwiche_name_transparent.097e26a678a8d6497544.png",
-    "static/media/follow_the_herd_backdrop.png": "/static/media/follow_the_herd_backdrop.25780735a810e84cc4e1.png",
+    "static/media/1674725_widescreen_1920x1080.webp": "/static/media/1674725_widescreen_1920x1080.4970a22b7270af330f20.webp",
+    "static/media/logo_main_transparent.webp": "/static/media/logo_main_transparent.a478814c8c0120c4347a.webp",
+    "static/media/follow_the_herd_backdrop_1480x1000.webp": "/static/media/follow_the_herd_backdrop_1480x1000.a68eb7c5520b92241e6b.webp",
+    "static/media/follow_the_herd_backdrop_460x1000.webp": "/static/media/follow_the_herd_backdrop_460x1000.e1af13febb5b23ae23bf.webp",
+    "static/media/darwiche_name_transparent.webp": "/static/media/darwiche_name_transparent.c4446fc715557f8a94f9.webp",
     "index.html": "/index.html",
-    "main.54bb7a89.css.map": "/static/css/main.54bb7a89.css.map",
-    "main.e6f97d8a.js.map": "/static/js/main.e6f97d8a.js.map",
+    "main.24f4df38.css.map": "/static/css/main.24f4df38.css.map",
+    "main.fb76c4ef.js.map": "/static/js/main.fb76c4ef.js.map",
     "787.ab51ded2.chunk.js.map": "/static/js/787.ab51ded2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54bb7a89.css",
-    "static/js/main.e6f97d8a.js"
+    "static/css/main.24f4df38.css",
+    "static/js/main.fb76c4ef.js"
   ]
 }
