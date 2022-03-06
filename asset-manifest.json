@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5124ef01.css",
+    "main.css": "/static/css/main.2abb2500.css",
     "main.js": "/static/js/main.e6f97d8a.js",
     "static/js/787.ab51ded2.chunk.js": "/static/js/787.ab51ded2.chunk.js",
     "static/media/logo_main_transparent.png": "/static/media/logo_main_transparent.c9f03863c57ec84abc40.png",
@@ -8,12 +8,12 @@
     "static/media/darwiche_name_transparent.png": "/static/media/darwiche_name_transparent.097e26a678a8d6497544.png",
     "static/media/follow_the_herd_backdrop.png": "/static/media/follow_the_herd_backdrop.25780735a810e84cc4e1.png",
     "index.html": "/index.html",
-    "main.5124ef01.css.map": "/static/css/main.5124ef01.css.map",
+    "main.2abb2500.css.map": "/static/css/main.2abb2500.css.map",
     "main.e6f97d8a.js.map": "/static/js/main.e6f97d8a.js.map",
     "787.ab51ded2.chunk.js.map": "/static/js/787.ab51ded2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5124ef01.css",
+    "static/css/main.2abb2500.css",
     "static/js/main.e6f97d8a.js"
   ]
 }
