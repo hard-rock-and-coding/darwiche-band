@@ -47,10 +47,10 @@
 
 .BandLogo::after {
     background: url(../assets/follow_the_herd_backdrop.png) no-repeat center center fixed;
-    background-size: 100%;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
+    background-size: contain;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
     content: ' ';
     display: block;
     position: absolute;
