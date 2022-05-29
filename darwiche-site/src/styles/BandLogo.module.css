@@ -8,8 +8,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
 .BandLogo {
-    height: 100vh;
+    min-height: 80vh;
     width: 100vw;
+    overflow: hidden;
     position: relative;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -18,9 +19,9 @@
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
@@ -64,7 +65,8 @@
 }
 
 .MainHeading {
-    font-size: 1.8rem;
+    padding-top: 6vmin;
+    font-size: 1rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -77,11 +79,14 @@
         opacity: 0.35;
     }
     .MainHeading {
-        font-size: 3.6rem;
+        padding-top: 2.2vmin;
     }
 }
 
 @media screen and (min-width: 1024px) {
+    .MainHeading {
+        font-size: 1.6rem;
+    }
     .BandLogo::after {
         opacity: 0.38;
     }

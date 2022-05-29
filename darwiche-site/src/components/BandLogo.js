@@ -5,10 +5,7 @@ import NavBar from "./NavBar";
 const BandLogo = () => {
   return (
     <div className={styles.BandLogo}>
-      <div>
-      <h1 className={styles.MainHeading}>FOLLOW THE HERD</h1>
-      <p>Music Video Out Now</p>
-      </div>
+      <h1 className={styles.MainHeading}>Music Videos Out Now</h1>
       <NavBar />
     </div>
   );

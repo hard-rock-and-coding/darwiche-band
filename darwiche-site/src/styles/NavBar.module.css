@@ -1,6 +1,6 @@
 .NavBar {
     color: antiquewhite;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .Spotify {
@@ -27,6 +27,19 @@
     font-size: .8rem;
 }
 
+.Videos {
+    flex-direction: column!important;
+}
+
+iframe {
+    margin: 2vmin;
+}
+
+.NavBar_Nav {
+    align-items: center;
+    justify-content: center;
+}
+
 @media screen and (min-width: 410px) {
     .NavBar {
         font-size: 1.4rem;
@@ -42,5 +55,16 @@
     }
     .LinkText {
         font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 1020px) {
+    iframe {
+        height: 315px;
+        width: 490px;
+    }
+    
+    .Videos {
+        flex-direction: row!important;
     }
 }
